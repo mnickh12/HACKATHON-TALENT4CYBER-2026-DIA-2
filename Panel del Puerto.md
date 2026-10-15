@@ -263,9 +263,6 @@ Se probaron payloads que exponen la configuración de Flask:
 ## 8. Cadena de explotación completa
 
     1. Login en https://puerto.locdynamics.com/
-       ├─ Usuario: marcos
-       └─ Contraseña: UdAPuynV4dBXLFV2
-       → Rechazado (el panel pide credencial de servicio)
 
     2. Material del Reto 3 (Rastro del Ingeniero)
        └─ git bundle mli-tracking-tools.bundle
