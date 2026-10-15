@@ -93,7 +93,8 @@ Todo el análisis se realizó en **entorno controlado** y de forma **estática**
 - Este repositorio recoge los **apuntes y soluciones** del Día 2 de la hackathon.
 - El **Día 1** se centró en la parte de **reconstrucción** (criptografía, OSINT, forense, reversing, pwn, web).
 - No todo el material recibido era útil: parte estaba diseñado para **perder el tiempo**. Saber cuándo cerrar una línea de investigación también puntúa.
-- Los retos se resolvieron en equipo, pero este repositorio es una recopilación personal para estudio y referencia.
+- Este repositorio es una recopilación personal para estudio y referencia.
+- El ranking final del grupo ha sido el #28 de todos los equipos de todas las universidades partícipes en la competición. Esto significa que se ha quedado fuera de los 25 primeros grupos, es decir, fuera de la clasificación principal. Por ello, aún consiguiendo un total de 279 puntos, siendo el #25 de 252 puntos, no aparecemos en el ranking principal
 
 ---
 
