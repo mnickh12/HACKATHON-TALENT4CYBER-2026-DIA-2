@@ -28,10 +28,12 @@ Más información: [https://talent4cyber.es/](https://talent4cyber.es/)
 |-------|-------|
 | **Nombre del equipo** | Brigada Bardino |
 | **Universidad** | Universidad Europea de Madrid |
-| **Miembro** | marcos |
-| **Puntos completados (Día 2)** | 146 |
+| **Miembro** | marcos (capitán) |
+| **Puntos Día 1** | 123 (puesto #47, 13 retos) |
+| **Puntos Día 2** | 156 (puesto #28, 11 retos) |
 | **Puntos totales del evento (individual)** | 279 |
-| **Tiempo en completarlo** | 7h 24m 54s 475ms |
+| **Tiempo Día 1** | 5h 56m 40s 96ms |
+| **Tiempo Día 2** | 7h 24m 54s 475ms |
 
 ---
 
@@ -57,12 +59,12 @@ El AIS del corredor, el firmware de una baliza, la estación del cable, el panel
 
 | # | Reto | Categoría | Puntos | Flag / Solución |
 |---|------|-----------|--------|------------------|
-| 01 | [Cripto del Convoy](Cripto%20del%20Convoy.md) | Criptografía | 20 | `T4C{3cds4_n0nc3_r3us3_c0nv0y}` |
-| 02 | [Aislar el Segmento: Contención](Aislar%20el%20Segmento%20-%20Contención.md) | Contención | 20 | `T4C{s3gm3nt0_0T_41sl4d0_0k}` |
-| 03 | [Cable Roto](Cable%20Roto.md) | Forense | 15 | `T4C{20260214T031744Z_sess_a91f4c7e}` |
-| 04 | [Eco en el AIS](Eco%20en%20el%20AIS.md) | Redes | 20 | `T4C{MMSI_224815920_FANTASMA}` |
-| 05 | [Implante en el Faro](Implante%20en%20el%20Faro.md) | Reversing | 25 | `T4C{4rm_1mpl4nt3_f4r0_tr1gg3r}` |
-| 06 | [Panel del Puerto](Panel%20del%20Puerto.md) | Web | 20 | `T4C{ssrf_l00pb4ck_0t_d1syunt0r}` |
+| 01 | [Implante en el Faro](Implante%20en%20el%20Faro.md) | Reversing | 25 | `T4C{4rm_1mpl4nt3_f4r0_tr1gg3r}` |
+| 02 | [Eco en el AIS](Eco%20en%20el%20AIS.md) | Redes | 20 | `T4C{MMSI_224815920_FANTASMA}` |
+| 03 | [Aislar el Segmento: Contención](Aislar%20el%20Segmento%20-%20Contención.md) | Contención | 20 | `T4C{s3gm3nt0_0T_41sl4d0_0k}` |
+| 04 | [Panel del Puerto](Panel%20del%20Puerto.md) | Web | 9 | `T4C{ssrf_l00pb4ck_0t_d1syunt0r}` |
+| 05 | [Cable Roto](Cable%20Roto.md) | Forense | 15 | `T4C{20260214T031744Z_sess_a91f4c7e}` |
+| 06 | [Cripto del Convoy](Cripto%20del%20Convoy.md) | Criptografía | 20 | `T4C{3cds4_n0nc3_r3us3_c0nv0y}` |
 | 07 | [Comunicado de Crisis](Comunicado%20de%20Crisis.md) | Comunicación | — | *(Comunicado institucional)* |
 | 08 | [Aislar el Segmento: Justificación](Aislar%20el%20Segmento%20-%20Justificación.md) | Decisión ROE | — | *(Justificación escrita)* |
 | 09 | [Regla de Enfrentamiento](Regla%20de%20Enfrentamiento.md) | Decisión ROE | — | *(Justificación escrita)* |
