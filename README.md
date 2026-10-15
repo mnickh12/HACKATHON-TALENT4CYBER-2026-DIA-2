@@ -29,8 +29,8 @@ Más información: [https://talent4cyber.es/](https://talent4cyber.es/)
 | **Nombre del equipo** | Brigada Bardino |
 | **Universidad** | Universidad Europea de Madrid |
 | **Miembro** | marcos |
-| **Puntos completados (individual)** | 179 |
-| **Puntos totales del equipo** | 146 |
+| **Puntos completados (Día 2)** | 146 |
+| **Puntos totales del evento (individual)** | 279 |
 | **Tiempo en completarlo** | 7h 24m 54s 475ms |
 
 ---
